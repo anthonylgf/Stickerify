@@ -7,3 +7,7 @@ buildNumber.properties
 .idea/
 src/main/resources/*.png
 .gradle/
+*.png
+.vscode
+*.wbm
+target/
